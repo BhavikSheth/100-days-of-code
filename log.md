@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: Tuesday 10th January 2016
+
+**Today's Progress:** Cleaned up my code by making functions for duplicate code. Renamed css classes and variables to names easier to understand. Made comments to the code to describe what each step/function is doing.
+
+**Thoughts:** Didn't get much work done today because I am sick but did grind at least an hour.
+
+**Link(s) to work:** [Javascript Calculator](http://codepen.io/BhavikSheth/full/VPYGvy/)
+
 ### Day 3: Monday 9th January 2016
 
 **Today's Progress:** Finished the JavaScript Calculator Project on FCC to the User Stories requirements.
