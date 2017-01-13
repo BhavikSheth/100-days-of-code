@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: Wednesday 11th January 2016
+
+**Today's Progress:** Fixed bugs in my code and made some design changes.
+
+**Thoughts:** Couldn't push myself to work enough today because of a flu which didn't let me sleep enough last night. Don't feel good for not making the most out of all the time I had. Hoping this flu passes quickly so I can get back to working hard.
+
+**Link(s) to work:** [Javascript Calculator](http://codepen.io/BhavikSheth/full/VPYGvy/)
+
 ### Day 4: Tuesday 10th January 2016
 
 **Today's Progress:** Cleaned up my code by making functions for duplicate code. Renamed css classes and variables to names easier to understand. Made comments to the code to describe what each step/function is doing.
