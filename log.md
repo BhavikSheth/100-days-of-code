@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: Wednesday 18th January 2016
+
+**Today's Progress:** Started working on the Eloquent JavaScript Book. Got through the first chapter. Also solved one challenge from the Advanced Algorithm Section.
+
+**Thoughts:** Missed out on a week of coding. Don't feel good about it but there wasn't much I could do about it unfortunately. Back again now and hopefully can go on a long streak without any breaks.
+
+**Link(s) to work:** [Exact Change Challenge FCC](https://www.freecodecamp.com/challenges/exact-change)
+
 ### Day 5: Wednesday 11th January 2016
 
 **Today's Progress:** Fixed bugs in my code and made some design changes.
