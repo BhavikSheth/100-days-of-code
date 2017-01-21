@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: Friday 20th January 2016
+
+**Today's Progress:** Completed Chapter 3 and half of 4 in the Eloquent JavaScript book.
+
+**Thoughts:** This book is taking longer than I thought to get through. My progress has slowed gradually since I started with this challenge which I'm a little disappointed with. I would like to pick up the pace and get through my work a little quicker. Haven't been focused as well as I should be.
+
+**Link(s) to work:** 
+
 ### Day 6: Wednesday 18th January 2016
 
 **Today's Progress:** Started working on the Eloquent JavaScript Book. Got through the first chapter. Also solved one challenge from the Advanced Algorithm Section.
