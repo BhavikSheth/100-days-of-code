@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 9: Tuesday 23rd January 2016
+
+**Today's Progress:** Finished Chapter 4 and 5 in the Eloquent JavaScript Book.
+
+**Thoughts:** Got focused and into a good flow today so I picked up on some of the difficult topics quickly. Feels extremely satisfying making so much progress. As I didn't have the laptop with me today, I couldn't play with the examples in the book. Thinking about starting the Pomodoro Clock project after I get through Part 1 of the book which is 11 chapters so I can use the knowledge I have learnt from the book for this project.
+
+**Link(s) to work:** 
+
+### Day 8: Saturday 21st January 2016
+
+**Today's Progress:** Went to the FreeCodeCamp Meetup for the first time in 3 months, worked with a few devs, and made some new friends. Solved a Flexbox alignment and responsive problem with one dev at the meetup.
+
+**Thoughts:** After speaking to developers in their first front end developer jobs, they told me I was more than ready to start applying for jobs and many self taught developers suffer from imposter syndrome. This has given me great confidence to start applying sooner rather than later.
+
+**Link(s) to work:** 
+
 ### Day 7: Friday 20th January 2016
 
 **Today's Progress:** Completed Chapter 3 and half of 4 in the Eloquent JavaScript book.
